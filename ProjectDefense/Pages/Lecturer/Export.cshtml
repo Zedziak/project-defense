@@ -1,0 +1,57 @@
+﻿@page
+@model ProjectDefense.Pages.Lecturer.ExportModel
+@{
+    ViewData["Title"] = "Export Reservations";
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr />
+<div class="row">
+    <div class="col-md-8">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="row">
+                <div class="col-md-6 form-group mb-3">
+                    <label asp-for="RoomId" class="control-label">Room</label>
+                    <select asp-for="RoomId" class="form-control" asp-items="Model.RoomOptions">
+                        <option value="">-- Select Room --</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-6 form-group mb-3">
+                    <label asp-for="StartDate" class="control-label"></label>
+                    <input asp-for="StartDate" type="date" class="form-control" />
+                    <span asp-validation-for="StartDate" class="text-danger"></span>
+                </div>
+                <div class="col-md-6 form-group mb-3">
+                    <label asp-for="EndDate" class="control-label"></label>
+                    <input asp-for="EndDate" type="date" class="form-control" />
+                    <span asp-validation-for="EndDate" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group mb-3">
+                <label class="control-label">Export Format</label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="ExportFormat" value="txt" id="formatTxt" checked>
+                    <label class="form-check-label" for="formatTxt">.txt (Text File) </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="ExportFormat" value="xlsx" id="formatXlsx">
+                    <label class="form-check-label" for="formatXlsx">.xlsx (Excel) </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="ExportFormat" value="pdf" id="formatPdf">
+                    <label class="form-check-label" for="formatPdf">.pdf (PDF) </label>
+                </div>
+            </div>
+
+            <div class="form-group mt-3">
+                <input type="submit" value="Export Data" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

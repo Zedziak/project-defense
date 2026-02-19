@@ -1,0 +1,136 @@
+﻿@page
+@model ProjectDefense.Pages.Lecturer.AllSlotsModel
+@{
+    ViewData["Title"] = "All Slots";
+}
+
+@if (!string.IsNullOrEmpty(Model.StatusMessage))
+{
+    <div class="alert alert-info" role="alert">
+        @Model.StatusMessage
+    </div>
+}
+
+@if (Model.ReservationToMove != null)
+{
+    <div class="card bg-light mb-4">
+        <div class="card-header">
+            <h4>Re-book Student</h4>
+        </div>
+        <div class="card-body">
+            <div class="alert alert-warning">
+                <strong>Moving Student:</strong> @Model.ReservationToMove.Student.UserName <br />
+                <strong>From Slot:</strong> @Model.ReservationToMove.StartTime.ToString("g") (@Model.ReservationToMove.LecturerAvailability.Room.Name - @Model.ReservationToMove.LecturerAvailability.Room.RoomNumber)
+            </div>
+            <form method="post" asp-page-handler="Rebook">
+                <input type="hidden" asp-for="RebookId" />
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="row">
+                    <div class="col-md-8">
+                        <label asp-for="NewReservationId" class="control-label">Select New Slot</label>
+                        <select asp-for="NewReservationId" class="form-control" asp-items="Model.AvailableSlotsOptions">
+                            <option value="">-- Select an available slot --</option>
+                        </select>
+                    </div>
+                    <div class="col-md-4 d-flex align-items-end">
+                        <input type="submit" value="Confirm Move" class="btn btn-primary me-2" />
+                        <a asp-page="./AllSlots" class="btn btn-secondary">Cancel</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+}
+
+<div class="card mb-4">
+    <div class="card-header">
+        <h4>Block Period</h4>
+    </div>
+    <div class="card-body">
+        <p class="card-text">Select a date range to block. All active reservations (free and booked) in this period will be canceled and marked as blocked.</p>
+        <form method="post" asp-page-handler="BlockPeriod">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="row">
+                <div class="col-md-4">
+                    <label asp-for="BlockInput.StartDate" class="control-label"></label>
+                    <input asp-for="BlockInput.StartDate" type="date" class="form-control" />
+                </div>
+                <div class="col-md-4">
+                    <label asp-for="BlockInput.EndDate" class="control-label"></label>
+                    <input asp-for="BlockInput.EndDate" type="date" class="form-control" />
+                </div>
+                <div class="col-md-4 d-flex align-items-end">
+                    <input type="submit" value="Block Period" class="btn btn-danger" />
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<h3>All Generated Slots</h3>
+<table class="table table-striped table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Date</th>
+            <th>Time</th>
+            <th>Room</th>
+            <th>Status (Booked by)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Reservations)
+        {
+            bool isExpired = item.StartTime < DateTime.Now;
+            string rowClass = "";
+            if (isExpired) rowClass = "table-secondary text-muted";
+            else if (item.IsBlocked) rowClass = "table-danger text-decoration-line-through";
+
+            <tr class="@rowClass">
+                <td>@item.StartTime.ToString("d")</td>
+                <td>@item.StartTime.ToString("t") - @item.EndTime.ToString("t")</td>
+                <td>@item.LecturerAvailability.Room.Name (@item.LecturerAvailability.Room.RoomNumber)</td>
+                <td>
+                    @if (item.IsBlocked)
+                    {
+                        <strong>--- BLOCKED ---</strong>
+                    }
+                    else if (item.Student != null)
+                    {
+                        <strong class="@(isExpired ? "" : "text-danger")">@item.Student.UserName</strong>
+                    }
+                    else
+                    {
+                        <span class="@(isExpired ? "" : "text-success")">--- FREE ---</span>
+                    }
+                    @if (isExpired && !item.IsBlocked)
+                    {
+                        <small class="ms-2">(Expired)</small>
+                    }
+                </td>
+                <td>
+                    @if (item.Student != null && !isExpired && !item.IsBlocked)
+                    {
+                        <form method="post" class="d-inline" asp-page-handler="Cancel" asp-route-reservationId="@item.Id">
+                            <button type="submit" class="btn btn-warning btn-sm">
+                                Cancel
+                            </button>
+                        </form>
+                        <a asp-page="./AllSlots" asp-route-RebookId="@item.Id" class="btn btn-info btn-sm d-inline">
+                            Re-book
+                        </a>
+                    }
+                    else
+                    {
+                        <span>N/A</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (!Model.Reservations.Any())
+{
+    <p>No slots found. Go to "Define Availability" to create new slots.</p>
+}

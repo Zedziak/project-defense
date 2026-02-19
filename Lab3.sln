@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectDefense", "ProjectDefense\ProjectDefense.csproj", "{B933CEAA-7B98-4404-922E-47A172B50332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{1D77B482-67E1-45DD-A73D-6CC19B8F8A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B933CEAA-7B98-4404-922E-47A172B50332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B933CEAA-7B98-4404-922E-47A172B50332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B933CEAA-7B98-4404-922E-47A172B50332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B933CEAA-7B98-4404-922E-47A172B50332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D77B482-67E1-45DD-A73D-6CC19B8F8A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D77B482-67E1-45DD-A73D-6CC19B8F8A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D77B482-67E1-45DD-A73D-6CC19B8F8A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D77B482-67E1-45DD-A73D-6CC19B8F8A09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF3E6664-0DF5-438B-BAFE-2F8B42EDD310}
+	EndGlobalSection
+EndGlobal

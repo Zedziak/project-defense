@@ -1,0 +1,1123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D77B482-67E1-45DD-A73D-6CC19B8F8A09}|Client\\Client.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D77B482-67E1-45DD-A73D-6CC19B8F8A09}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\projectdefense.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\projectdefense.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\lecturer\\defineavailability.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\lecturer\\defineavailability.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\student\\availableslots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\student\\availableslots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\student\\availableslots.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\student\\availableslots.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\student\\myreservation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\student\\myreservation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\student\\myreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\student\\myreservation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\lecturer\\allslots.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\lecturer\\allslots.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\shared\\_cultureswitch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\shared\\_cultureswitch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\setlanguage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\setlanguage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ProjectDefense-395f8998-d475-4d62-bef0-1c09aebd7588\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\resources\\pages\\student\\availableslots.cshtml.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\resources\\pages\\student\\availableslots.cshtml.en-us.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\resources\\pages\\student\\availableslots.cshtml.pl-pl.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\resources\\pages\\student\\availableslots.cshtml.pl-pl.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\setlanguage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\setlanguage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\classes\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|solutionrelative:classes\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\classes\\availableslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|solutionrelative:classes\\availableslotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\classes\\bookslotrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|solutionrelative:classes\\bookslotrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\classes\\lectureravailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|solutionrelative:classes\\lectureravailability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\classes\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|solutionrelative:classes\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|solutionrelative:classes\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\lecturer\\export.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\lecturer\\export.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\rooms\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\rooms\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\rooms\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\rooms\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\rooms\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\rooms\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\rooms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\rooms\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\lecturer\\allslots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\lecturer\\allslots.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\lecturer\\managestudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\lecturer\\managestudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\lecturer\\managestudents.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\lecturer\\managestudents.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\lecturer\\defineavailability.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\lecturer\\defineavailability.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\classes\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|solutionrelative:classes\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\lecturer\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\lecturer\\export.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\classes\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|solutionrelative:classes\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\rooms\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\rooms\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\rooms\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\rooms\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\rooms\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\rooms\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\rooms\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\rooms\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\pages\\rooms\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\pages\\rooms\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\classes\\classes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|solutionrelative:classes\\classes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\projectdefense.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\projectdefense.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\classes\\classes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{48C2DA9B-605F-4B4E-BC19-4046D8B03ED6}|Classes\\Classes.csproj|solutionrelative:classes\\classes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D77B482-67E1-45DD-A73D-6CC19B8F8A09}|Client\\Client.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D77B482-67E1-45DD-A73D-6CC19B8F8A09}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\data\\migrations\\20251105184614_initsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\data\\migrations\\20251105184614_initsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\data\\migrations\\20251111202036_adduniquerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\data\\migrations\\20251111202036_adduniquerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\data\\migrations\\20251111185043_addisblockedtoreservation2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\data\\migrations\\20251111185043_addisblockedtoreservation2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|c:\\users\\user\\desktop\\studia\\sem7\\rai\\rai3\\projectdefense\\data\\migrations\\20251111181015_addisblockedtoreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B933CEAA-7B98-4404-922E-47A172B50332}|ProjectDefense\\ProjectDefense.csproj|solutionrelative:projectdefense\\data\\migrations\\20251111181015_addisblockedtoreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DefineAvailability.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\DefineAvailability.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Lecturer\\DefineAvailability.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\DefineAvailability.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Lecturer\\DefineAvailability.cshtml.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAkwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:06:29.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProjectDefense\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProjectDefense\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T20:26:03.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyReservation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Student\\MyReservation.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Student\\MyReservation.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Student\\MyReservation.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Student\\MyReservation.cshtml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwDwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T20:30:12.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectDefense.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\ProjectDefense.csproj",
+              "RelativeDocumentMoniker": "ProjectDefense\\ProjectDefense.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\ProjectDefense.csproj",
+              "RelativeToolTip": "ProjectDefense\\ProjectDefense.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T18:43:59.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T21:41:30.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectDefense\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\appsettings.json",
+              "RelativeToolTip": "ProjectDefense\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T18:36:20.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AvailableSlots.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Student\\AvailableSlots.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Student\\AvailableSlots.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Student\\AvailableSlots.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Student\\AvailableSlots.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T19:12:23.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyReservation.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Student\\MyReservation.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Student\\MyReservation.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Student\\MyReservation.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Student\\MyReservation.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T20:30:13.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AvailableSlots.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Student\\AvailableSlots.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Student\\AvailableSlots.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Student\\AvailableSlots.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Student\\AvailableSlots.cshtml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAmwFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:12:30.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AllSlots.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\AllSlots.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Lecturer\\AllSlots.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\AllSlots.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Lecturer\\AllSlots.cshtml.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAADwv1AAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:11:35.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_CultureSwitch.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Shared\\_CultureSwitch.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Shared\\_CultureSwitch.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Shared\\_CultureSwitch.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Shared\\_CultureSwitch.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T21:48:44.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwD8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T21:50:44.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-11T19:58:53.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T20:31:02.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T20:30:11.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T20:30:10.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Error.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T20:30:09.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T20:30:42.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T20:30:05.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T20:30:07.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SetLanguage.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\SetLanguage.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\SetLanguage.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\SetLanguage.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\SetLanguage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T21:47:56.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Program.cs",
+              "RelativeToolTip": "ProjectDefense\\Program.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:30:54.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ProjectDefense\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ProjectDefense\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-11T18:26:36.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Services\\EmailSender.cs",
+              "RelativeToolTip": "ProjectDefense\\Services\\EmailSender.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:51:16.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAmwHsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T22:44:27.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T22:44:27.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ProjectDefense-395f8998-d475-4d62-bef0-1c09aebd7588\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ProjectDefense-395f8998-d475-4d62-bef0-1c09aebd7588\\secrets.json",
+              "ToolTip": "C:\\Users\\user\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ProjectDefense-395f8998-d475-4d62-bef0-1c09aebd7588\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\aspnet-ProjectDefense-395f8998-d475-4d62-bef0-1c09aebd7588\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T18:51:36.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AvailableSlots.cshtml.en-US.resx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Resources\\Pages\\Student\\AvailableSlots.cshtml.en-US.resx",
+              "RelativeDocumentMoniker": "ProjectDefense\\Resources\\Pages\\Student\\AvailableSlots.cshtml.en-US.resx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Resources\\Pages\\Student\\AvailableSlots.cshtml.en-US.resx",
+              "RelativeToolTip": "ProjectDefense\\Resources\\Pages\\Student\\AvailableSlots.cshtml.en-US.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-05T19:27:34.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AvailableSlots.cshtml.pl-PL.resx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Resources\\Pages\\Student\\AvailableSlots.cshtml.pl-PL.resx",
+              "RelativeDocumentMoniker": "ProjectDefense\\Resources\\Pages\\Student\\AvailableSlots.cshtml.pl-PL.resx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Resources\\Pages\\Student\\AvailableSlots.cshtml.pl-PL.resx",
+              "RelativeToolTip": "ProjectDefense\\Resources\\Pages\\Student\\AvailableSlots.cshtml.pl-PL.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-11-05T19:27:35.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\StudentDto.cs",
+              "RelativeDocumentMoniker": "Classes\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\StudentDto.cs",
+              "RelativeToolTip": "Classes\\StudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T21:27:18.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SetLanguage.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\SetLanguage.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\SetLanguage.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\SetLanguage.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Pages\\SetLanguage.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T21:48:00.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "LecturerAvailability.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\LecturerAvailability.cs",
+              "RelativeDocumentMoniker": "Classes\\LecturerAvailability.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\LecturerAvailability.cs",
+              "RelativeToolTip": "Classes\\LecturerAvailability.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:29:49.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BookSlotRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\BookSlotRequestDto.cs",
+              "RelativeDocumentMoniker": "Classes\\BookSlotRequestDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\BookSlotRequestDto.cs",
+              "RelativeToolTip": "Classes\\BookSlotRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:57:52.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\Reservation.cs",
+              "RelativeDocumentMoniker": "Classes\\Reservation.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\Reservation.cs",
+              "RelativeToolTip": "Classes\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:30:13.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\User.cs",
+              "RelativeDocumentMoniker": "Classes\\User.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\User.cs",
+              "RelativeToolTip": "Classes\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:24:27.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AvailableSlotDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\AvailableSlotDto.cs",
+              "RelativeDocumentMoniker": "Classes\\AvailableSlotDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\AvailableSlotDto.cs",
+              "RelativeToolTip": "Classes\\AvailableSlotDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:39:46.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Export.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\Export.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Lecturer\\Export.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\Export.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Lecturer\\Export.cshtml.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAkwMIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T21:36:19.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Rooms\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Edit.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Rooms\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:59:51.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Rooms\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Create.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Rooms\\Create.cshtml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:59:51.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Rooms\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Edit.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Rooms\\Edit.cshtml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwEYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:59:51.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Rooms\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Create.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Rooms\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:59:51.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20251111202036_AddUniqueRooms.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Data\\Migrations\\20251111202036_AddUniqueRooms.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Data\\Migrations\\20251111202036_AddUniqueRooms.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Data\\Migrations\\20251111202036_AddUniqueRooms.cs",
+              "RelativeToolTip": "ProjectDefense\\Data\\Migrations\\20251111202036_AddUniqueRooms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T20:20:36.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProjectDefense\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:30:42.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AllSlots.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\AllSlots.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Lecturer\\AllSlots.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\AllSlots.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Lecturer\\AllSlots.cshtml",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAkwHkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T22:11:27.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T18:23:14.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:52:36.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwGcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:49:23.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T18:49:14.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20251111185043_AddIsBlockedToReservation2.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Data\\Migrations\\20251111185043_AddIsBlockedToReservation2.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Data\\Migrations\\20251111185043_AddIsBlockedToReservation2.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Data\\Migrations\\20251111185043_AddIsBlockedToReservation2.cs",
+              "RelativeToolTip": "ProjectDefense\\Data\\Migrations\\20251111185043_AddIsBlockedToReservation2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:50:43.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ManageStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\ManageStudents.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Lecturer\\ManageStudents.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\ManageStudents.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Lecturer\\ManageStudents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T18:17:10.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ManageStudents.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\ManageStudents.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Lecturer\\ManageStudents.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\ManageStudents.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Lecturer\\ManageStudents.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:17:25.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20251111181015_AddIsBlockedToReservation.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Data\\Migrations\\20251111181015_AddIsBlockedToReservation.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Data\\Migrations\\20251111181015_AddIsBlockedToReservation.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Data\\Migrations\\20251111181015_AddIsBlockedToReservation.cs",
+              "RelativeToolTip": "ProjectDefense\\Data\\Migrations\\20251111181015_AddIsBlockedToReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T18:10:15.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DefineAvailability.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\DefineAvailability.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Lecturer\\DefineAvailability.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\DefineAvailability.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Lecturer\\DefineAvailability.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T19:06:23.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\RoomDto.cs",
+              "RelativeDocumentMoniker": "Classes\\RoomDto.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\RoomDto.cs",
+              "RelativeToolTip": "Classes\\RoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:39:12.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Export.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\Export.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Lecturer\\Export.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Lecturer\\Export.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Lecturer\\Export.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T21:36:10.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ProjectDefense\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T20:30:37.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "ProjectDefense\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "ProjectDefense\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T20:26:14.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\Room.cs",
+              "RelativeDocumentMoniker": "Classes\\Room.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\Room.cs",
+              "RelativeToolTip": "Classes\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:27:47.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Rooms\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Delete.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Rooms\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:59:51.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Rooms\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Delete.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Rooms\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:59:51.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Rooms\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Index.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Rooms\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:59:51.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Rooms\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Index.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Rooms\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:59:51.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Rooms\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Details.cshtml.cs",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Rooms\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:59:51.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProjectDefense\\Pages\\Rooms\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Pages\\Rooms\\Details.cshtml",
+              "RelativeToolTip": "ProjectDefense\\Pages\\Rooms\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:59:51.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20251105184614_InitSetup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Data\\Migrations\\20251105184614_InitSetup.cs",
+              "RelativeDocumentMoniker": "ProjectDefense\\Data\\Migrations\\20251105184614_InitSetup.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\Data\\Migrations\\20251105184614_InitSetup.cs",
+              "RelativeToolTip": "ProjectDefense\\Data\\Migrations\\20251105184614_InitSetup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:46:14.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Classes.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\Classes.csproj",
+              "RelativeDocumentMoniker": "Classes\\Classes.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\Classes.csproj",
+              "RelativeToolTip": "Classes\\Classes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T18:26:18.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ProjectDefense",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\ProjectDefense.csproj",
+              "RelativeDocumentMoniker": "ProjectDefense\\ProjectDefense.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\ProjectDefense\\ProjectDefense.csproj",
+              "RelativeToolTip": "ProjectDefense\\ProjectDefense.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T18:42:23.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Classes",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\Classes.csproj",
+              "RelativeDocumentMoniker": "Classes\\Classes.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Classes\\Classes.csproj",
+              "RelativeToolTip": "Classes\\Classes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T18:42:18.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Client.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\studia\\sem7\\RAI\\RAI3\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T18:26:01.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

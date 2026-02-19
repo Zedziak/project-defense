@@ -1,0 +1,60 @@
+﻿@page
+@model ProjectDefense.Pages.Lecturer.ManageStudentsModel
+@{
+    ViewData["Title"] = "Manage Students";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (!string.IsNullOrEmpty(Model.StatusMessage))
+{
+    <div class="alert alert-info" role="alert">
+        @Model.StatusMessage
+    </div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Username / Email</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model.Students)
+        {
+            <tr>
+                <td>@student.UserName</td>
+                <td>
+                    @if (student.IsBanned)
+                    {
+                        <span class="badge bg-danger">BANNED</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-success">Active</span>
+                    }
+                </td>
+                <td>
+                    <form method="post">
+                        @if (student.IsBanned)
+                        {
+                            <button type="submit" class="btn btn-success btn-sm"
+                                    asp-page-handler="Unban" asp-route-userId="@student.Id">
+                                Unban
+                            </button>
+                        }
+                        else
+                        {
+                            <button type="submit" class="btn btn-danger btn-sm"
+                                    asp-page-handler="Ban" asp-route-userId="@student.Id">
+                                Ban
+                            </button>
+                        }
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

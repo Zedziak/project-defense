@@ -1,0 +1,50 @@
+﻿@page
+@model ProjectDefense.Pages.Student.MyReservationModel
+@{
+    ViewData["Title"] = "My Reservation";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (!string.IsNullOrEmpty(Model.StatusMessage))
+{
+    <div class="alert alert-info" role="alert">
+        @Model.StatusMessage
+    </div>
+}
+
+@if (Model.CurrentReservation != null)
+{
+    <h4>You have one active reservation:</h4>
+    <div class="card" style="width: 30rem;">
+        <div class="card-body">
+            <h5 class="card-title">@Model.CurrentReservation.LecturerAvailability.Lecturer.UserName</h5>
+            <h6 class="card-subtitle mb-2 text-muted">Room: @Model.CurrentReservation.LecturerAvailability.Room.Name (@Model.CurrentReservation.LecturerAvailability.Room.RoomNumber)</h6>
+            <p class="card-text">
+                <strong>Date:</strong> @Model.CurrentReservation.StartTime.ToString("D") <br />
+                <strong>Time:</strong> @Model.CurrentReservation.StartTime.ToString("t") - @Model.CurrentReservation.EndTime.ToString("t")
+            </p>
+
+            <div class="d-flex">
+                <form method="post" class="me-2">
+                    <button type="submit" class="btn btn-danger"
+                            asp-page-handler="Cancel"
+                            asp-route-reservationId="@Model.CurrentReservation.Id">
+                        Cancel Reservation
+                    </button>
+                </form>
+
+                <a class="btn btn-primary"
+                   asp-page="./AvailableSlots"
+                   asp-route-changeId="@Model.CurrentReservation.Id">
+                    Change Reservation
+                </a>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <p>You do not have any active reservations.</p>
+    <a asp-page="./AvailableSlots" class="btn btn-primary">Book a slot</a>
+}

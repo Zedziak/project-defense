@@ -1,0 +1,57 @@
+﻿@page
+@model ProjectDefense.Pages.Student.AvailableSlotsModel
+@inject IStringLocalizer<ProjectDefense.Pages.Student.AvailableSlotsModel> localizer
+@{
+    ViewData["Title"] = localizer["Available Slots"];
+}
+
+<h1>@ViewData["Title"]</h1>
+
+@if (!string.IsNullOrEmpty(Model.StatusMessage))
+{
+    <div class="alert alert-info" role="alert">
+        @Model.StatusMessage
+    </div>
+}
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>@localizer["Date"]</th>
+            <th>@localizer["Start Time"]</th>
+            <th>@localizer["End Time"]</th>
+            <th>@localizer["Lecturer"]</th>
+            <th>@localizer["Room"]</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.AvailableReservations)
+        {
+            <tr>
+                <td>@item.StartTime.ToString("d")</td>
+                <td>@item.StartTime.ToString("t")</td>
+                <td>@item.EndTime.ToString("t")</td>
+                <td>@Html.DisplayFor(modelItem => item.LecturerAvailability.Lecturer.UserName)</td>
+                <td>@item.LecturerAvailability.Room.Name (@item.LecturerAvailability.Room.RoomNumber)</td>
+                <td>
+                    <form method="post">
+                        <input type="hidden" asp-for="ChangeId" />
+
+                        <button type="submit"
+                                class="btn btn-primary btn-sm"
+                                asp-page-handler="Book"
+                                asp-route-reservationId="@item.Id">
+                            @localizer["Book"]
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@if (!Model.AvailableReservations.Any() && string.IsNullOrEmpty(Model.StatusMessage))
+{
+    <p>@localizer["No available slots found."]</p>
+}
